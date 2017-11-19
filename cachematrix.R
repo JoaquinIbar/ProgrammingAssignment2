@@ -47,15 +47,3 @@ cacheSolve <- function(x, ...) {
 }
 
 
-
-
-
-
-
-
-
-
-
-
-
-
